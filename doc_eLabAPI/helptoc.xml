@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- $Date: 2022-08-03 15:00:40 $ -->
+<toc version='2.0'>
+   <tocitem target="eLabAPI.html">eLabAPI
+   <tocitem target="eLabAPI.html" >Start with eLabAPI
+       <tocitem target="License.html">License</tocitem>
+       <tocitem target="Example_codes.html">Example_codes</tocitem>
+    </tocitem>
+   <tocitem target="eLabAPI.html" >Getting started
+       <tocitem target="init.html">init</tocitem>
+       <tocitem target="manager.html">manager</tocitem>
+       <tocitem target="send_req.html">send_req</tocitem>
+    </tocitem>
+   <tocitem target="eLabAPI.html" >Backup
+       <tocitem target="get_backup_zip.html">get_backup_zip</tocitem>
+    </tocitem>
+   <tocitem target="eLabAPI.html" >Category
+       <tocitem target="get_items_types.html">get_items_types</tocitem>
+       <tocitem target="get_status.html">get_status</tocitem>
+    </tocitem>
+   <tocitem target="eLabAPI.html" >Entity
+       <tocitem target="add_link.html">add_link</tocitem>
+       <tocitem target="add_link_to_experiment.html">add_link_to_experiment</tocitem>
+       <tocitem target="add_link_to_item.html">add_link_to_item</tocitem>
+       <tocitem target="add_tag.html">add_tag</tocitem>
+       <tocitem target="add_tag_to_experiment.html">add_tag_to_experiment</tocitem>
+       <tocitem target="add_tag_to_item.html">add_tag_to_item</tocitem>
+       <tocitem target="create_experiment.html">create_experiment</tocitem>
+       <tocitem target="create_item.html">create_item</tocitem>
+       <tocitem target="create_template.html">create_template</tocitem>
+       <tocitem target="get_all_experiments.html">get_all_experiments</tocitem>
+       <tocitem target="get_all_items.html">get_all_items</tocitem>
+       <tocitem target="get_all_templates.html">get_all_templates</tocitem>
+       <tocitem target="get_bookable.html">get_bookable</tocitem>
+       <tocitem target="get_experiment.html">get_experiment</tocitem>
+       <tocitem target="get_item.html">get_item</tocitem>
+       <tocitem target="get_tags.html">get_tags</tocitem>
+       <tocitem target="get_upload.html">get_upload</tocitem>
+       <tocitem target="post_experiment.html">post_experiment</tocitem>
+       <tocitem target="post_item.html">post_item</tocitem>
+       <tocitem target="update_category.html">update_category</tocitem>
+       <tocitem target="update.html">update</tocitem>
+       <tocitem target="upload.html">upload</tocitem>
+    </tocitem>
+   <tocitem target="eLabAPI.html" >Event
+       <tocitem target="create_event.html">create_event</tocitem>
+       <tocitem target="destroy_event.html">destroy_event</tocitem>
+       <tocitem target="get_event.html">get_event</tocitem>
+       <tocitem target="get_all_events.html">get_all_events</tocitem>
+    </tocitem>
+    </tocitem>
+</toc>
