@@ -17,4 +17,4 @@ The Structure of this project is as follows:
 - Help files can be found in "doc_eLabAPI".
 
 
-The License can be found in the "release" folder. 
+The License can be found in the main folder. 
